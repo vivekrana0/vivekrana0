@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Rana</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
-<img width="400" src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" >
+<img align="center" width="400" src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" >
 
 - 📫 How to reach me **vivekranarajput@gmail.com**
 
