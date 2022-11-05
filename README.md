@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Web Developer</h3>
 <img align="center" width="1000" src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg" >
 
-- 👨‍💻 All of my projects are available at [vivekrana.tech](vivekrana.tech)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vivekrana.tech/)
 - 📫 How to reach me **vivekranarajput@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
